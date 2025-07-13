@@ -1,2 +1,2 @@
-# Mannequin-Test-Dataset
+# AEB-Vehicle-Mannequin-Dataset
 This repository contains a multi-modal evaluation dataset designed for testing Automatic Emergency Braking (AEB) systems in vehicle-pedestrian interaction scenarios. AEB systems are critical for improving pedestrian safety, but existing datasets often fail to represent the complexity of real-world traffic environments. This dataset aims to address those limitations by including diverse test scenarios, varying environmental conditions, and detailed pedestrian and vehicle interaction data.
