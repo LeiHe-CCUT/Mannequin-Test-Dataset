@@ -1,2 +1,2 @@
 # Mannequin-Test-Dataset
-This is a test dataset based on a mannequin developed to facilitate the development of active safety devices, such as the Pedestrian PCS (Pre-Crash System).
+This repository contains a multi-modal evaluation dataset designed for testing Automatic Emergency Braking (AEB) systems in vehicle-pedestrian interaction scenarios. AEB systems are critical for improving pedestrian safety, but existing datasets often fail to represent the complexity of real-world traffic environments. This dataset aims to address those limitations by including diverse test scenarios, varying environmental conditions, and detailed pedestrian and vehicle interaction data.
